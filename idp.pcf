@@ -1,0 +1,22 @@
+set_io A[0] B11
+set_io A[1] B10
+set_io A[2] B9
+set_io A[3] D8
+set_io B[0] B4
+set_io B[1] C3
+set_io B[2] A2
+set_io B[3] A5
+set_io O[0] A11
+set_io O[1] A10
+
+
+set_io C[0] A9
+set_io C[1] B8
+set_io C[2] B5
+set_io C[3] B3
+set_io C[4] B6
+set_io C[5] B7
+set_io C[6] T15
+set_io C[7] T14
+set_io CLK T11
+set_io sign R10
